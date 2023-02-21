@@ -254,24 +254,24 @@ Uri: https://deepspace.game/images/DappRadar.svg
 File Name: C:\Downloaded Web Sites\deepspace.game\images\DappRadar.svg
 Content Type: image/svg+xml
 
-Uri: https://deepspace.game/images/DEEPSPACE-Fight-p-1080.jpeg
-File Name: C:\Downloaded Web Sites\deepspace.game\images\DEEPSPACE-Fight-p-1080.jpeg
+Uri: https://deepspace.game/images/Orbitrium-Fight-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\deepspace.game\images\Orbitrium-Fight-p-1080.jpeg
 Content Type: image/jpeg
 
-Uri: https://deepspace.game/images/DEEPSPACE-Fight-p-500.jpeg
-File Name: C:\Downloaded Web Sites\deepspace.game\images\DEEPSPACE-Fight-p-500.jpeg
+Uri: https://deepspace.game/images/Orbitrium-Fight-p-500.jpeg
+File Name: C:\Downloaded Web Sites\deepspace.game\images\Orbitrium-Fight-p-500.jpeg
 Content Type: image/jpeg
 
-Uri: https://deepspace.game/images/DEEPSPACE-Fight-p-800.jpeg
-File Name: C:\Downloaded Web Sites\deepspace.game\images\DEEPSPACE-Fight-p-800.jpeg
+Uri: https://deepspace.game/images/Orbitrium-Fight-p-800.jpeg
+File Name: C:\Downloaded Web Sites\deepspace.game\images\Orbitrium-Fight-p-800.jpeg
 Content Type: image/jpeg
 
-Uri: https://deepspace.game/images/DEEPSPACE-Fight.jpg
-File Name: C:\Downloaded Web Sites\deepspace.game\images\DEEPSPACE-Fight.jpg
+Uri: https://deepspace.game/images/Orbitrium-Fight.jpg
+File Name: C:\Downloaded Web Sites\deepspace.game\images\Orbitrium-Fight.jpg
 Content Type: image/jpeg
 
-Uri: https://deepspace.game/images/DEEPSPACE-Inline-Logo.svg
-File Name: C:\Downloaded Web Sites\deepspace.game\images\DEEPSPACE-Inline-Logo-1.svg
+Uri: https://deepspace.game/images/Orbitrium-Inline-Logo.svg
+File Name: C:\Downloaded Web Sites\deepspace.game\images\Orbitrium-Inline-Logo-1.svg
 Content Type: image/svg+xml
 
 Uri: https://deepspace.game/images/discord.svg
